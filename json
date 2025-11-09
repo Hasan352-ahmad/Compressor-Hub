@@ -1,0 +1,24 @@
+compressorhub/
+├─ package.json
+├─ vite.config.js
+├─ index.html
+├─ README.md
+├─ public/
+│  └─ robots.txt
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ styles.css
+│  ├─ components/
+│  │  ├─ Navbar.jsx
+│  │  ├─ Footer.jsx
+│  │  ├─ ImageCompressor.jsx
+│  │  ├─ PDFMerge.jsx
+│  │  ├─ InvoiceMaker.jsx
+│  │  ├─ Todo.jsx
+│  │  ├─ Alarm.jsx
+│  │  ├─ Calculator.jsx
+│  │  └─ Reviews.jsx
+│  └─ lib/
+│     └─ seoData.js
+└─ .gitignore
